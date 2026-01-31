@@ -51,7 +51,7 @@ export default function Home() {
           <div className="flex items-center justify-center">
             <Wishes
               visible={done}
-              friendName="Khushi"
+              friendName="Cutie"
               photo="/photo.jpg"
               audio="/happy-birthday.mp3"
               onOpenCarousel={() => setShowCarousel(true)}

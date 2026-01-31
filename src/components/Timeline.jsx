@@ -7,110 +7,110 @@ import { motion } from "framer-motion";
 const timelineData = [
   {
     message: "cutie pie 😘",
-    image: "/timeline/1.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "once again cutie pie 😘",
-    image: "/timeline/2.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "ye lo fir se aagyi cutie pie 😂",
-    image: "/timeline/3.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "Kitni seedhi si dikh rahi hai, par hai nahin! 😂", // Corrected
-    image: "/timeline/4.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "My favorite picture! 😁📸", // Corrected
-    image: "/timeline/8.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "Jalwa hai humaara!", // Corrected
-    image: "/timeline/9.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "chalo ek photo ho jaye",
-    image: "/timeline/12.jpg",
+    image: "/timeline/11.jpeg",
   },
   {
     message: `"say cheese! 🧀📸"`,
-    image: "/timeline/13.jpg",
+    image: "/timeline/11.jpeg",
   },
   {
     message: "Itni baar bola, chalo, ek photo de deti hoon. 😂", // Corrected
-    image: "/timeline/14.jpg",
+    image: "/timeline/11.jpeg",
   },
   {
     message: "chalo ek photo ho jaye",
-    image: "/timeline/15.jpg",
+    image: "/timeline/11.jpeg",
   },
   {
     message: `
     Dekh kar hairaan hai aaine ka jigri,
 
 Ek toh kaatil si nazar, uspar kaajal ka kehar..`, // Corrected
-    image: "/timeline/16.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: `ye laali, ye kaajal, aur ye zulfein khuli
 khuli,
 arey, aise hi jaan maang lete, itne intezaam kyun kiye`,
-    image: "/timeline/17.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: `Tere chehre ki wo khoobsurat tasweer kahan se lau,
 Har lamha tere saath guzrey aisi takdeer kahan se lau
 Main maangta hoon har safar mein saath tera,
 Tu hi bata mere haathon me wo lakeer kaha se lau`,
-    image: "/timeline/19.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "Professionalism dekho! 😂", // Corrected spelling
-    image: "/timeline/20.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "My cute Panda 🐼",
-    image: "/timeline/21.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "👍👍",
-    image: "/timeline/22.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: `Sitaron se bhari hovi raatein pasand hai, duur se suni uski baatein pasand hai
 Tareef ke qabil hai uske baal phir bhi par, Mujhe sab se ziada uski aankhein pasand hai.`,
-    image: "/timeline/23.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: `Tumse hi Ishq hona zaroori tha kya... Ye dil tumhara paband hona zaroori tha kya..
 Waise to lakho log hai iss duniya me par srif tumse hi nigahein milna zaroori tha kya....`, // NEW: Beauty message 1
-    image: "/timeline/25.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "Oh God, yeh ladki kitna padhegi! 📚", // Corrected + new emoji
-    image: "/timeline/26.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: `Yeh laali, yeh kaajal, bindi aur
 Yeh zulfen kaali khuli khuli..
 Qatl ke auzaaron ki yun khule-aam numaish nahi karte mohtarma.. 😏`, // NEW: Beauty message 4
-    image: "/timeline/29.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "🥰🥰🥰🥰🥰", // NEW: Beauty message 5
-    image: "/timeline/30.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: "Oh God, itna kaam! 😫", // Corrected + new emoji
-    image: "/timeline/31.jpg",
+    image: "/timeline/1.jpeg",
   },
   {
     message: `Uske chere pe is kadar Noor tha, Uski yaad me Hume rona manzoor tha,
 Bewafa bhi nhi keh skte hum usko
 Mohobbat to humne ki thi
 Vo to bekasur tha`, // NEW: Beauty message 6
-    image: "/timeline/32.jpg",
+    image: "/timeline/1.jpeg",
   },
 ];
 
